@@ -1,14 +1,5 @@
 ---
-title: "My Document"
-output:
-  html_document: 
-    self_contained: no
-    keep_md: yes
-  pdf_document: default
-params:
-  year: 2023
-  region: Europe
-  printcode: yes
+title: "MIPT Conference"
 ---
 
 This R-notebook represents the pipeline of my work presented on the conference at MIPT in April. The details about data is described in the presentation. Here you can see the code of the work.
