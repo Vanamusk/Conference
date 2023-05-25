@@ -1,6 +1,7 @@
 # MIPT Conference 2023 
 
-This is representation of the pipeline (code could be found in Conference.Rmd) of my work presented on the conference at MIPT in April 2023. The details about data is described in the presentation. Here you can see the code of the work.
+This R-notebook represents the pipeline of my work presented on the conference at MIPT in April. The details about data is described in the presentation. Here you can see the code of the work.
+
 
 
 ```r
